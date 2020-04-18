@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Leetcode](README.md)
-* [136Single Number](136singlenumber.md)
-* [101 Symmetric Tree](101symmetrictree.md)
 * [015 3Sum](015threesum.md)
-* [141 Linked List Cycle](141linkedlistcycle.md)
+* [101 Symmetric Tree](101symmetrictree.md)
 * [125 Valid Palindrome](125validpalindrome.md)
+* [136Single Number](136singlenumber.md)
+* [141 Linked List Cycle](141linkedlistcycle.md)
 * [005 Longest Palindromic Substring](005longestpalindromicsubstring.md)
 * [070 Climbing Stairs](070climbingstairs.md)
 * [190 Reverse Bits](190reversebits.md)
